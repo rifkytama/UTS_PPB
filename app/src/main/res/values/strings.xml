@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">surelEmail</string>
+
+    <string-array name="Surel_Email">
+        <item>Manok Radifan</item>
+        <item>Nabil Ewing</item>
+        <item>Hanif Ibrahim</item>
+        <item>Cikian Tama</item>
+        <item>Hafizh Fuqaha</item>
+        <item>Eko Januardi</item>
+        <item>Flappygeny Nopal</item>
+        <item>Tegar Valak</item>
+        <item>Yaz Noklap</item>
+        <item>Koh Afuq</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+    </string-array>
+</resources>
